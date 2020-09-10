@@ -1,5 +1,7 @@
 Thank you for downloading my project. Follow the instructions for a successful installation:
 
+- The executable can be found in the main folder.
+
 
 1 - The '' database '' folder contains the database and tables used to create the project. Just import the sql file to your server.
 I used a local XAMPP server so if you are going to use another one, change the path in the ConnectionModel class.
@@ -10,8 +12,7 @@ I used a local XAMPP server so if you are going to use another one, change the p
 
 ==============================================================================================================================
 
-3 - 'ProjetoCzila' is the complete project. Inside this folder it contains the 'dist' folder that has the project's executable (ProjetoCzila.exe). 
-But that executable can be found in the main folder
+3 - 'ProjetoCzila' is the complete project written in Java.
 
 ==============================================================================================================================
 
