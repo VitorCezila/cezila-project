@@ -1,0 +1,33 @@
+Thank you for downloading my project. Follow the instructions for a successful installation:
+
+
+1 - The '' database '' folder contains the database and tables used to create the project. Just import the sql file to your server.
+I used a local XAMPP server so if you are going to use another one, change the path in the ConnectionModel class.
+
+==============================================================================================================================
+
+2 - The ''Images'' and ''Icons'' folders contain all the images and icons that I used in the project.
+
+==============================================================================================================================
+
+3 - 'ProjetoCzila' is the complete project. Inside this folder it contains the 'dist' folder that has the project's executable (ProjetoCzila.exe). 
+But that executable can be found in the main folder
+
+==============================================================================================================================
+
+4 - The 'reports' folder needs to be placed inside C: For the path to be the same used in the code. If possible, just copy to your C:
+These 'reports' are the files responsible for creating the layout of the reports and making it possible to print them.
+
+The path will be:
+C:\reports
+
+==============================================================================================================================
+
+5 - Use login: admin / password: admin at the login screen to proceed to the program
+
+
+
+Make good use of it.
+Any questions send an email to: vcezila@gmail.com and I will be able to help.
+
+Thanks (◕‿◕✿)
