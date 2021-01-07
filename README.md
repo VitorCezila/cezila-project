@@ -10,3 +10,12 @@ In this program you can register:
 The program was originally designed for a beauty salon but has functions for general use in other establishments.
 
 Inside the HairSalonProject folder there is a notepad with instructions for installing the program.
+
+# Screenshots
+
+![](download-package/HairSalonProject/screenshots/loginScreen.png)
+![](download-package/HairSalonProject/screenshots/homeScreen.png)
+![](download-package/HairSalonProject/screenshots/homeScreen_2.png)
+![](download-package/HairSalonProject/screenshots/customersScreen.png)
+![](download-package/HairSalonProject/screenshots/osScreen.png)
+![](download-package/HairSalonProject/screenshots/registred_customersScreen.png)
